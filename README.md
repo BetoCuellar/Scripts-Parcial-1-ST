@@ -1,12 +1,12 @@
-# Scripts-Parcial-1-ST
-Repositorio creado para la entrega de scripts en la resolucion del parcial 1 ST
+# 🎯 Parcial 1 ST – Scripts Completos
 
-Presentado por:
+Repositorio creado para la entrega de **Scripts del Parcial 1 ST**  
 
-Nicolas Cuellar Castrellón
+**Presentado por:**  
+- ✒️ Nicolás Cuellar Castrellón  
+- ✒️ Santiago Duque Valencia  
 
-Santiago Duque Valencia
-
+---
 --------------------------------------------------------------------------------
 == PARTE 1 — Apache + PAM (en VM web) ==
 --------------------------------------------------------------------------------
